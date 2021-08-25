@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap');
+
+body{
+  background-color: black;
+}
+
+.titulo-principal{
+  font-family: 'Roboto', sans-serif;
+  color: #eaecec;
+}
+
+div{
+  height: 200px;
+    background-image: url('evangelion.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position:center;
+}
+
+.Nota{
+  color:#94e90c;
+  font-size: 30px;
+  background-color: black;
+}
+
+.titulo-secundario{
+  color: #eaecec;
+}
+
+p{
+  color: #eaecec;
+}
